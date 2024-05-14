@@ -9,3 +9,12 @@ Make executables with PyInstaller   (helloworld.py)
 
 > python -m PyInstaller helloworld.py --onefile   
 
+
+
+Display an image inside my application with tkinter   (displayimage.py)   
+(installed by default with Python)    
+> python imagedisplay.py   
+
+
+
+so far I can't get these two to work together but I don't have time for it right now   
